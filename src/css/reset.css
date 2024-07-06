@@ -12,7 +12,9 @@ p {
 p:last-child {
   margin-bottom: 0;
 }
-
+li {
+  list-style: none;
+}
 ul {
   margin: 0;
   padding: 0;
